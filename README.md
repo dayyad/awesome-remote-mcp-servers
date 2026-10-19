@@ -468,7 +468,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
 - [ManyCP MCP server](https://manycp.com) `https://manycp.com/mcp`
   [![ManyCP MCP server MCP connector](https://glama.ai/mcp/connectors/io.github.dayyad/manycp-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dayyad/manycp-mcp)
-  🔑 - Submit an MCP server to many MCP directories and track each listing from an AI assistant.
+  🔓 - Submit an MCP server to many MCP directories and track each listing from an AI assistant.
 - [MemorySync Documentation](https://docs.memorysync.io/mcp/overview) `https://docs.memorysync.io/mcp`
   [![MemorySync Docs MCP connector](https://glama.ai/mcp/connectors/io.memorysync/docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/docs)
   🔓 - Search and read MemorySync's API, SDK and integration docs.
